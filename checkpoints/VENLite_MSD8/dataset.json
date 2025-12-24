@@ -1,0 +1,11 @@
+{
+    "channel_names": {
+        "0000": "noNorm"
+    },
+    "labels": {
+        "background": 0,
+        "LV": 1
+    },
+    "numTraining": 303,
+    "file_ending": ".nii.gz"
+}
