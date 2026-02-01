@@ -10,12 +10,12 @@ We provide one example from Re-MSD8 that was not used during training. See in ca
 run gui.py to start.
 
 # Auto Seg
-<img width="865" height="465" alt="image" src="https://github.com/user-attachments/assets/64b64c80-b69b-4f48-bc22-9fecdbe91cf9" />
+<img width="1903" height="1024" alt="img1" src="https://github.com/user-attachments/assets/b7567613-7ebe-40c0-b9b5-16302760c960" />
 
 # Edit One Slice
-<img width="865" height="462" alt="image" src="https://github.com/user-attachments/assets/2a8d73d0-766f-4ccd-bc68-c9e7342a892a" />
+<img width="1903" height="1024" alt="img2" src="https://github.com/user-attachments/assets/aa5c63e7-41fd-4908-806d-8ad32c602434" />
 
 # VEN Refine (Green: added, Blue: removed)
-<img width="865" height="462" alt="image" src="https://github.com/user-attachments/assets/a1db8812-4071-400c-a593-be669a3a6a6e" />
 
+<img width="1903" height="1024" alt="img3" src="https://github.com/user-attachments/assets/80d52081-340f-4404-8141-c4478d6a7b97" />
 
