@@ -1,5 +1,5 @@
 # VEN
-Official implementation of "Refine as You Edit: Interactive Multi-Task Learning for Precision Correction of Hepatic Vessel Segmentation".
+Official implementation of "Interactive Hepatic Vessel Segmentation Framework via Multi-Task Learning and Vessel Geometric Prior Compression based on Run-Length Encoding".
 
 Train base on nnUnetv2:nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation
 
