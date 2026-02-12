@@ -7,7 +7,9 @@ This repository provides a lightweight GUI implementation of VEN, along with the
 
 We provide one example from Re-MSD8 that was not used during training. See in case/*
 
-run gui.py to start.
+Run gui.py to start.
+
+See 3D Mask RLE in sp_blocks.py
 
 # Overview
 
