@@ -1,4 +1,4 @@
-## VEN
+# VEN
 Official implementation of "Interactive Hepatic Vessel Segmentation Framework via Multi-Task Learning and Vessel Geometric Prior Compression based on Run-Length Encoding".
 
 Train base on nnUnetv2:nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation
@@ -9,9 +9,9 @@ We provide one example from Re-MSD8 that was not used during training. See in ca
 
 run gui.py to start.
 
-## Overview
+# Overview
 
-# Auto seg -> Edit wrong slice -> VEN refines whole seg
+Auto seg -> Edit wrong slice -> VEN refines whole seg
 
 <img width="1080" height="586" alt="overview_low" src="https://github.com/user-attachments/assets/579c84ab-8fd8-4bc5-a715-3b65853e5a73" />
 
